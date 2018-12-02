@@ -9,7 +9,7 @@ here = path.abspath(path.dirname(__file__))
 
 setup(
     name='scimulator',  # Required
-    version='0.1.0-dev',  # Required
+    version='0.1.0dev',  # Required
     description="Tools for simulating 3'-end tag-based scRNA-seq.",
     # long_description=long_description,  # Optional
     # long_description_content_type='text/markdown',  # Optional (see note above)

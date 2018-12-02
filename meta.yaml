@@ -1,9 +1,9 @@
 package:
   name: scimulator
-  version: "0.1.0-dev"
+  version: "0.1.0dev"
 
 source:
-  git_rev: v0.1.0-dev
+  git_rev: v0.1.0dev
   git_url: https://github.com/mfansler/scimulator.git
 
 requirements:
